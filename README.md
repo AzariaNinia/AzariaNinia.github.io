@@ -1,13 +1,13 @@
 # Hi! AzariaNinia.github.io
 ---
-favorites
+## favorites
 - escneral
 - siya ofcourse
 ---
-ME
+## ME
 - Nina B. Baguio
 ---
-FAVORITES(real)
+## FAVORITES(real)
 - DREAMCATCHER
 (STAN DUEKAE)
 ![DREAMCATCHER](https://cdn.filestackcontent.com/1nV4v2wRRqgAtx8gTW6C/convert?cache=true&crop=0%2C173%2C1500%2C750&crop_first=true&quality=90&w=1920)
