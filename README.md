@@ -11,7 +11,11 @@
 ## FAVORITES
 - KPOP
      - DREAMCATCHER
-     - GOT7
+     
+     <iframe width="560" height="315" src="https://www.youtube.com/embed/jKrJBVLnRiM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+     
+     - FROMIS_9
+     <iframe width="560" height="315" src="https://www.youtube.com/embed/JC6budcACNE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 - ANIME
      - TOUGEN ANKI
