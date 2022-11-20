@@ -4,8 +4,8 @@
 - Nina B. Baguio
 - October 25, 2008
 - 14
-- [instagram](https://www.instagram.com/nin.ia_bz/)
-- [facebook](https://www.facebook.com/nnabgb.azaria)
+- 🔗[instagram](https://www.instagram.com/nin.ia_bz/)
+- 🔗[facebook](https://www.facebook.com/nnabgb.azaria)
 
 ---
 ## FAVORITES
