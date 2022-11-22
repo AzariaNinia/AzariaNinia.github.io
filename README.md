@@ -11,12 +11,20 @@
 ## FAVORITES
 - **KPOP**
 
-     - DREAMCATCHER
+     - DREAMCATCHER✨
+     > ![DREAMCATCHER](https://i.pinimg.com/400x/90/08/ce/9008cecbea8b312ff33476902fa74a9e.jpg)
      <iframe width="560" height="315" src="https://www.youtube.com/embed/jKrJBVLnRiM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-     
-     - FROMIS_9
-     <iframe width="560" height="315" src="https://www.youtube.com/embed/JC6budcACNE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+     - FROMIS_9✨
+     > ![FROMIS_9](https://i.pinimg.com/400x/fd/78/a6/fd78a6f03ae7f8c31ba78e56c6b0f282.jpg)
+     <iframe width="560" height="315" src="https://www.youtube.com/embed/JC6budcACNE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+---
+- **BEBE KO**
+     - JIHEON BEBELOVESᕙ(^▿^-ᕙ)
+     > ![JIHEON](https://i.pinimg.com/200x/67/aa/ea/67aaeaa4b56e4b0a43352eb0ed86b08b.jpg)
+     - JIU BEBELOVES ULITᕙ(`▿´)ᕗ
+     > ![JIU](https://i.pinimg.com/200x/e3/ff/ac/e3ffacf24a1ef4711560ecd85d9f7e45.jpg)
+     
 - **ANIME**
 
      - TOUGEN ANKI
